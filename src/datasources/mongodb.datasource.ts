@@ -13,7 +13,6 @@ const config = {
   useNewUrlParser: true
 };
 
-// Puse el nombre mal
 // Observe application's life cycle to disconnect the datasource when
 // application is stopped. This allows the application to be shut down
 // gracefully. The `stop()` method is inherited from `juggler.DataSource`.
